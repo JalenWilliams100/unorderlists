@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Web 1 HTML Headings and Paragraphs</title>
+	<style>
+	body{
+		background-color:coral;}
+	h2{
+		background-color:maroon;
+		color:white;
+		padding:10px;
+		border-radius:20px;
+		box-shadow:0px 0px 10px black;}
+	
+	
+	</style>
+</head>
+
+<body>
+	<h2>H T M L</h2>
+	<p>Coloribus mensuram palmae in circuitu eius caput. Pariter ac fila miscerentur. Etiam res non sit una colores. Unum omnes tamen simul distincte separatis. Quid est hoc explicare illa ad alios?Modicum ibi erant solum illa quae non potest stare. Sonus aliquis unguibus percussoque in mensa. A persona aperto ore suo ad conterendum cibum. Alius hominum spatio imposito sibi in ea. Nequibat horum autem nihil aliud ad numerum calvis quam omnes compositae nequibat.</p>
+	
+	<h2>C S S</h2>
+	<p>Coloribus mensuram palmae in circuitu eius caput. Pariter ac fila miscerentur. Etiam res non sit una colores. Unum omnes tamen simul distincte separatis. Quid est hoc explicare illa ad alios?Modicum ibi erant solum illa quae non potest stare. Sonus aliquis unguibus percussoque in mensa. A persona aperto ore suo ad conterendum cibum. Alius hominum spatio imposito sibi in ea. Nequibat horum autem nihil aliud ad numerum calvis quam omnes compositae nequibat.</p>
+	
+	<h2>Java Script</h2>
+	<p>Coloribus mensuram palmae in circuitu eius caput. Pariter ac fila miscerentur. Etiam res non sit una colores. Unum omnes tamen simul distincte separatis. Quid est hoc explicare illa ad alios?Modicum ibi erant solum illa quae non potest stare. Sonus aliquis unguibus percussoque in mensa. A persona aperto ore suo ad conterendum cibum. Alius hominum spatio imposito sibi in ea. Nequibat horum autem nihil aliud ad numerum calvis quam omnes compositae nequibat.</p>
+	
+</body>
+</html>
